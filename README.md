@@ -1,0 +1,2 @@
+# ChlamydomonosiaCore
+Chlamydomonosia系列的核心mod，添加了一系列API
